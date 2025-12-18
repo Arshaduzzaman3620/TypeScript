@@ -1,4 +1,4 @@
-let user = {name: "arshad",age: 22
+let myuser = {name: "arshad",age: 22
   };
 
 console.log(user.name);
